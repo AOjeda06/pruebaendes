@@ -7,7 +7,8 @@ import java.util.TreeMap;
 public class ClaseDePrueba {
 	// Crear TreeMaps para los números y estrellas
 	static TreeMap<Integer, Integer> numeros = new TreeMap<>();
-	static TreeMap<Integer, Integer> estrellas = new TreeMap<>();
+	
+//	static TreeMap<Integer, Integer> estrellas = new TreeMap<>();//Variable tree m
 	// Escaner
 	static Scanner scanner = new Scanner(System.in);
 
