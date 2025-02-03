@@ -17,9 +17,10 @@ public class ClaseDePrueba {
 		do {
 			// Menú
 			System.out.println("1. Introducir números y estrellas del último sorteo");
-			System.out.println("2. Ver estadísticas");
+			System.out.println("2. Ver x<zxestadísticas");
 			System.out.println("0. Salir");
-			System.out.println("Cambio andres");
+			System.out.println("Cambio Roberto");
+			System.out.println("cambio 12");
 			ans = scanner.nextInt();
 
 			// Acción seleccionada
